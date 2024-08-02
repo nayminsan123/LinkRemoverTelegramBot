@@ -1,16 +1,16 @@
 # 
 # Name: Link Remover Telegram Bot
-# Author: Max Base
-# Date: 2022/10/20
-# Repository: https://github.com/BaseMax/LinkRemoverTelegramBot
+# Author: NmS
+# Date: 
+# Repository: https://github.com/nayminsan123/LinkRemoverTelegramBot
 # 
 
 from telebot import TeleBot
 
 # config
-TOKEN = '5592542597:AAFZyzDCL8wNPlYNzR8fzh8wxAS0tVkxUn4'
+TOKEN = '7132798219:AAG_38mE-ICM6uSGBtYpG7pjOR1dmVf9QvE'
 ADMINS = [
-    '1215864830'
+    '7166145007'
 ]
 
 # setup
